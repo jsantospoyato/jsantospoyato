@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAFW78TuyEQ/Lb0985wCkzGvrB8U7Ud4Cw/view?utm_content=DAFW78TuyEQ&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
+![Banner](./banner.png)
 
 <!--
 **jsantospoyato/jsantospoyato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
