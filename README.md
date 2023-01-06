@@ -23,9 +23,11 @@ My courses and new ideas of personal projects. Actively looking for a job and in
 - SQL
 
 ### Technologies:
-- VSCode
+- VSCode (and some other IDEs and similar)
+- Notion
 - Git
 - Github
+- Virtual Machines
 
 ### Knowledge (advanced or basic):
 - Development (Web & Software)
