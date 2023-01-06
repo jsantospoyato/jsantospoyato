@@ -62,9 +62,7 @@ Anything, I will try to answer as soon as possible!
 
 ## 📫 How to reach me: ...
 
-You can reach me on the twitter on my profile, gmail or phone in the number or my:
-
-[LinkedIn](https://www.linkedin.com/in/jsantospoyato/)
+You can reach me on the twitter or linkedin on my profile, gmail or phone in the number in the banner above.
 
 ## ⚡ Fun fact:
 
