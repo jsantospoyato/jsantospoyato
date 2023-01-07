@@ -39,6 +39,9 @@ C,![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo
 - Teamworker
 - Self-critical and thoughful
 - Curious
+- Flexible
+- Honest
+- High sense of humour
 
 ## 🤔 I’m looking for help with ...
 
