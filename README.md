@@ -11,6 +11,12 @@ My courses and new ideas of personal projects. Actively looking for a job and in
 - Testing and Gherkin
 - Agile Methodologies (Scrum, Kanban)
 
+## 📈 GitHub Stats 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantospoyato&show_icons=true&theme=tokyonight)
+
+## ⌨️ Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsantospoyato&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
+
 ## ‍💻 Most important things I know about ...
 
 ### Languages:
