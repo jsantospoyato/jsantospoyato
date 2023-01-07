@@ -39,6 +39,7 @@ My courses and new ideas of personal projects. Actively looking for a job and in
 - Development (Web & Software)
 - Project management and Worflows
 - Clean Coding and Reusability
+- Testing
 - Cibersecurity
 - Data Structures
 - Algorithm Design
