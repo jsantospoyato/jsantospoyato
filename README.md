@@ -17,7 +17,7 @@ My courses and new ideas of personal projects. Actively looking for a job and in
 ## ⌨️ Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsantospoyato&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
-## ‍💻 Most important things I know about ...
+## ‍💻 Tech and Knowledge Stack ...
 
 ### Languages:
 - C
@@ -54,9 +54,14 @@ My courses and new ideas of personal projects. Actively looking for a job and in
 - Microcontrollers & Embedded Systems
 - Mathematics & Engineering
 
-## 👯 I’m looking to collaborate on ...
+## 👯 Soft Skills ...
 
-On any open source project related to languages I know, or new technologies to explore.
+- Creative
+- Communicative
+- Easy-to-talk-to
+- Teamworker
+- Self-critical and thoughful
+- Curious
 
 ## 🤔 I’m looking for help with ...
 
