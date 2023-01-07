@@ -4,7 +4,7 @@
 ## 🔭 I’m currently working on ...
 
 - [ ] Growing as a Web and Software developer
-- [ ] Become better JavaScript (including EcmaScript - ES6)
+- [ ] Become a senior at JavaScript (including EcmaScript - ES6)
 - [ ] Learn more about testing and QA
 - [ ] Develop my knowledge and put in in practice in agile methodologies (Scrum and Kanban)
 
