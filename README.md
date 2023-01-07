@@ -21,29 +21,15 @@ C,![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white), HTML 5, CSS3, SQL.
 
-### Technologies:
-VSCode, Notion, 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), Github and Virtual Machines.
-
-### Knowledge (advanced or basic):
-- Development (Web & Software)
-- Project management and Worflows
-- Clean Coding and Reusability
-- Testing
-- Cibersecurity
-- Data Structures
-- Algorithm Design
-- DB (Data Bases)
-- OS (Operating Systems)
-- PCI (Person-Computer-Interaction)
-- AI (Artificial Intelligence)
-- Graphics and Visualization
-- Networks and servers
-- Metaheuristics
-- NLP (Natural Language Processing)
-- Web mining
-- Microcontrollers & Embedded Systems
-- Mathematics & Engineering
+### Stack:
+| Technologies                                                                                        | Programming     | Software             | Computers            | Engineering        |
+|-----------------------------------------------------------------------------------------------------|-----------------|----------------------|----------------------|--------------------|
+| ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | Data Structures | Data Bases           | Networks and Servers | Mathematics        |
+| Virtual Machines                                                                                    | Clean Coding    | Web Mining           | Cibersecurity        | Algorithm Design   |
+| IDEs                                                                                                | Reusability     | NLP                  | Operating Systems    | Project Management |
+|                                                                                                     | UML             | Software development | Comp. Graphics       | Workflows          |
+|                                                                                                     | OOP             | Web Development      | Embedded Systems     |                    |
+|                                                                                                     |                 | Testing              | CPI                  |                    |
 
 ## 👯 Soft Skills ...
 
