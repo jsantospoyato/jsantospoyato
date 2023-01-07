@@ -20,20 +20,13 @@ My courses and new ideas of personal projects. Actively looking for a job and in
 ## ‍💻 Tech stack and knowledge ...
 
 ### Languages:
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- HTML & CSS
-- SQL
+C,![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white), HTML 5, CSS3, SQL.
 
 ### Technologies:
-- VSCode (and some other IDEs and similar)
-- Notion
-- Git
-- Github
-- Virtual Machines
+VSCode, Notion, 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), Github and Virtual Machines.
 
 ### Knowledge (advanced or basic):
 - Development (Web & Software)
