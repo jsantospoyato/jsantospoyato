@@ -3,13 +3,10 @@
 
 ## 🔭 I’m currently working on ...
 
-My courses and new ideas of personal projects. Actively looking for a job and in process to get one!
-
-## 🌱 I’m currently learning ...
-
-- JavaScript and EcmaScript (ES6)
-- Testing and Gherkin
-- Agile Methodologies (Scrum, Kanban)
+[] Growing as a Web and Software developer
+[] Become better JavaScript (including EcmaScript - ES6)
+[] Learn more about testing and QA
+[] Develop my knowledge and put in in practice in agile methodologies (Scrum and Kanban)
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantospoyato&show_icons=true&theme=tokyonight)
