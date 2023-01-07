@@ -3,10 +3,10 @@
 
 ## 🔭 I’m currently working on ...
 
-[ ] Growing as a Web and Software developer
-[ ] Become better JavaScript (including EcmaScript - ES6)
-[ ] Learn more about testing and QA
-[ ] Develop my knowledge and put in in practice in agile methodologies (Scrum and Kanban)
+- [ ] Growing as a Web and Software developer
+- [ ] Become better JavaScript (including EcmaScript - ES6)
+- [ ] Learn more about testing and QA
+- [ ] Develop my knowledge and put in in practice in agile methodologies (Scrum and Kanban)
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantospoyato&show_icons=true&theme=tokyonight)
