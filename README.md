@@ -17,7 +17,7 @@ My courses and new ideas of personal projects. Actively looking for a job and in
 ## ⌨️ Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsantospoyato&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
-## ‍💻 Tech and Knowledge Stack ...
+## ‍💻 Tech stack and knowledge ...
 
 ### Languages:
 - C
