@@ -1,12 +1,18 @@
 # KNOW ABOUT ME
-![Banner](./banner.png)
+Hey, I'm a Backend Developer currently working in Nter Tech Services, a Consulting Firm.
 
+Up until now, I've had worked as a QA Automation Tester, but since September 2024, I have been focused in learning web and software development, focusing on a Backend role.
+
+At the moment, I have worked for 2 different projects:
+- A multi-use web for intern employees, in where I became experience in building APIs, working with Databases and become a solid Java-SpringBoot developer. My best feat was building an event driven architecture from scratch, working with Front end.
+- A debt managment portal for a high value company. This time i learn a lot about planification, thinking ahead, be rigorous in my work and at the same time I learnt azure DevOps, CI/CD and become a better engineer, improving my strategy thinking, design and soft skills.
+  
 ## 🔭 I’m currently working on ...
 
-- [ ] Growing as a Web and Software developer
-- [ ] Become a senior at CSS and JavaScript (including a correct use of methodologies, preprocessors and frameworks)
-- [ ] Learning more about QA engineering, studying Chai and Nightwatch.js
-- [ ] Develop and put in practice my knowledge in agile methodologies (Scrum and Kanban) 
+- [ ] Learn GoLang as a second Backend language
+- [ ] Become a solid Java and SpringBoot Senior Backend Developer
+- [ ] Grow into a Full Stack Software Engineer
+- [ ] Develop my soft skills and leadership/planification in order to become a CTO one day
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsantospoyato&show_icons=true&theme=tokyonight)
@@ -17,9 +23,10 @@
 ## ‍💻 Tech stack and knowledge ...
 
 ### Languages:
-C,![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white), HTML 5, CSS3, SQL.
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white),
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft-Azure-blue?logo=microsoftazure&logoColor=white&style=plastic)
 
 ### Stack:
 | Technologies                                                                                        | Programming     | Software             | Computers            | Engineering        |
