@@ -5,7 +5,7 @@ Hey, I'm a Backend Developer currently working in Nter Tech Services, a Consulti
 At first, I've had worked as a QA Automation Tester, but since September 2024, I have been focused in learning web and software development, focusing on a Backend role.
 
 At the moment, I have worked for 2 different projects:
-- A multi-use web for intern employees, in where I became experience in building APIs, working with Databases and become a solid Java-SpringBoot developer. My best feat was building an event driven architecture from scratch, working with Front end.
+- A multi-use web for intern employees, where I became experienced in building APIs, working with Databases and become a solid Java-SpringBoot developer. My best feat was building an event driven architecture from scratch, working with Front end.
 - A debt managment portal for a high value company. This time i learn a lot about planification, thinking ahead, be rigorous in my work and at the same time I learnt azure DevOps, CI/CD and become a better engineer, improving my strategy thinking, design and soft skills.
   
 ## 🔭 I’m currently working on ...
