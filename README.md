@@ -2,7 +2,7 @@
 
 Hey, I'm a Backend Developer currently working in Nter Tech Services, a Consulting Firm.
 
-Up until now, I've had worked as a QA Automation Tester, but since September 2024, I have been focused in learning web and software development, focusing on a Backend role.
+At first, I've had worked as a QA Automation Tester, but since September 2024, I have been focused in learning web and software development, focusing on a Backend role.
 
 At the moment, I have worked for 2 different projects:
 - A multi-use web for intern employees, in where I became experience in building APIs, working with Databases and become a solid Java-SpringBoot developer. My best feat was building an event driven architecture from scratch, working with Front end.
